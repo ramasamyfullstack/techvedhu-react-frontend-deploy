@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f62b1f1.css",
-    "main.js": "/static/js/main.6e072862.js",
-    "static/js/453.df333d94.chunk.js": "/static/js/453.df333d94.chunk.js",
-    "index.html": "/index.html",
-    "main.7f62b1f1.css.map": "/static/css/main.7f62b1f1.css.map",
-    "main.6e072862.js.map": "/static/js/main.6e072862.js.map",
-    "453.df333d94.chunk.js.map": "/static/js/453.df333d94.chunk.js.map"
+    "main.css": "/techvedhu-react-frontend-deploy/static/css/main.7f62b1f1.css",
+    "main.js": "/techvedhu-react-frontend-deploy/static/js/main.3fdf673b.js",
+    "static/js/453.df333d94.chunk.js": "/techvedhu-react-frontend-deploy/static/js/453.df333d94.chunk.js",
+    "index.html": "/techvedhu-react-frontend-deploy/index.html",
+    "main.7f62b1f1.css.map": "/techvedhu-react-frontend-deploy/static/css/main.7f62b1f1.css.map",
+    "main.3fdf673b.js.map": "/techvedhu-react-frontend-deploy/static/js/main.3fdf673b.js.map",
+    "453.df333d94.chunk.js.map": "/techvedhu-react-frontend-deploy/static/js/453.df333d94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f62b1f1.css",
-    "static/js/main.6e072862.js"
+    "static/js/main.3fdf673b.js"
   ]
 }
